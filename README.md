@@ -4,7 +4,7 @@ I'm studying Java since September 2021 in GeekBrains, CodeGym and other sources,
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kastkest" align="center" width="400" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kastkest&layout=compact&card_width=205" align="center" width="350" /></p>
 
-<p align="center"><a href="https://www.linkedin.com/in/konstantin-kasterov-78329985/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>        <a href="https://t.me/ledeburit" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a></p>
+<p align="center"><a target="_blank" href="https://www.linkedin.com/in/konstantin-kasterov-78329985/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>        <a target="_blank" href="https://t.me/ledeburit" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a><a href="https://javarush.ru/users/2796417" target="_blank"> <img src="https://img.shields.io/badge/JAVA-RUSH-F59812?style=for-the-badge&logo=xda-developers&logoColor=white" /></a></p>
 
 
 
