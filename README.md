@@ -6,6 +6,8 @@ I'm studying Java since September 2021 in GeekBrains, CodeGym and other sources,
 
 <p align="center"><a target="_blank" href="https://www.linkedin.com/in/konstantin-kasterov-78329985/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>        <a target="_blank" href="https://t.me/ledeburit" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a><a target="_blank" href="https://javarush.ru/users/2796417" > <img src="https://www.pikpng.com/pngl/b/204-2048656_java-rush-1677-graphics-clipart.png" width="120" /></a> <a target="_blank" href="https://gb.ru/users/6814737" > <img src="https://itskill.me/wp-content/uploads/2021/08/geekbrains.png" width="150"/></a></p>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=kastkest&color=red" />
+
 
 
 
