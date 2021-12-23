@@ -1,6 +1,6 @@
 ### Hi, I'm Konstantin 👋
 
-I'm studying Java since September 2021 in GeekBrains, CodeGym and other sources, which allow me to get advanced knowledge in subject.
+I'm studying Java since September 2021 in GeekBrains, CodeGym and other sources, which allow me to get advanced knowledge in the subject.
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kastkest" align="center" width="400" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kastkest&layout=compact&card_width=205" align="center" width="350" /></p>
 
