@@ -3,7 +3,7 @@
 I'm studying Java since September 2021 in GeekBrains, CodeGym and other sources, which allow me to get advanced knowledge in the subject.
 
 <p align = 'center'>
- <a href="https://github-readme-stats.vercel.app/api?username=kastkest&show_icons=true&count_private=true"><img height="150" src="https://github-readme-stats.vercel.app/api?username=kastkest&show_icons=true&count_private=true" /></a>
+ <a href="https://github-readme-stats.vercel.app/api?username=kastkest&show_icons=true&count_private=true"><img height="150" width="500" src="https://github-readme-stats.vercel.app/api?username=kastkest&show_icons=true&count_private=true" /></a>
 <a href="https://github.com/kastkest/github-readme-stats"><img height=150 width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kastkest&layout=compact" /></a>
  </p>
 
