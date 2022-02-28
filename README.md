@@ -23,7 +23,7 @@ I'm studying Java since September 2021 in GeekBrains, CodeGym and other sources,
 
 ### My current projects
 *   [SimpleChat](https://github.com/kastkest/simpleChat) - Based on JavaFX. Chat with logging by DataBase and saving hystory.
-*   [Training Program TelegramBot](https://github.com/kastkest/training_program-telegrambot) - Full project for my friend, which will send to a Client video examples of trainings by his request.
+*   [Training Program TelegramBot](https://github.com/kastkest/training_program-telegrambot) - Full project, which will send to a Client video examples of trainings by his request.
  
  
 <!--
