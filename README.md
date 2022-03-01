@@ -19,7 +19,7 @@ I'm studying Java since September 2021 in GeekBrains, CodeGym and other sources,
 *   MySQL, PostgreSQL, Hibernate, Flyway, Liquibase
 *   Spring Framework, Spring Boot, Spring Security, Spring MVC, Spring REST
 *   HTML+CSS 
-*   GitHub
+*   Git
 
 ### My current projects
 *   [SimpleChat](https://github.com/kastkest/simpleChat) - Based on JavaFX. Chat with logging by DataBase and saving hystory.
