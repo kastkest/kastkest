@@ -15,15 +15,12 @@ I'm studying Java since September 2021 in GeekBrains, CodeGym and other sources,
 <p align='center'><img src="https://komarev.com/ghpvc/?username=kastkest&color=blue" />
 
 ## 🛠 Technical Stack
-*   Java
-*   MySQL, PostgreSQL, Hibernate, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Security, Spring MVC, Spring REST
+*   Java 11, JavaScript
+*   MySQL, PostgreSQL, Hibernate, Flyway
+*   Spring Framework (Spring Boot, Spring Security, Spring JPA), AngularJS
 *   HTML+CSS 
 *   Git
 
-### My current projects
-*   [SimpleChat](https://github.com/kastkest/simpleChat) - Based on JavaFX. Chat with logging by DataBase and saving hystory.
-*   [Training Program TelegramBot](https://github.com/kastkest/training_program-telegrambot) - Full project, which will send to a Client video examples of trainings by his request.
  
  
 <!--
